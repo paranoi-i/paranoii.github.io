@@ -1,5 +1,5 @@
 +++
-date = '2026-04-27T20:32:50+02:00'
+date = '2026-04-27T14:30:50+02:00'
 title = 'The Hollow Moon and the Primordials'
 description = "Learn about the Hollow Moon theory and the alien species which created it: the Primordials"
 canonical = "https://paranoi-i.github.io/egoless/hollow-moon-primordials/"
