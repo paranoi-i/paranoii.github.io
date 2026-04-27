@@ -1,6 +1,9 @@
 +++
 date = '2026-04-22T14:08:08+02:00'
 title = 'Decrypting the Wow! Signal using the I-ching: an environmental warning from outer space'
+description = "Learn how the I-ching can help us decrypt the Wow!Signal and how it all connects to the Ariel School UFO Incident"
+canonical = "https://paranoi-i.github.io/egoless/wow-iching/"
+
 +++
 
 ```
