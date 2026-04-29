@@ -9,7 +9,7 @@ canonifyURLs = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = false
   
-  Description = "Noticing UFO and aliens-related patterns that no one has noticed before"
+  Description = "Noticing UFO and alien-related patterns that no one else has"
 
   # Set the animation style -- https://animate.style/
   # To disable animations, please remove or comment animationStyle parameter
